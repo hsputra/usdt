@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "hsputra",
+    "repo": "usdt",
+    "branch": "master"
+  },
+  "name": "usdt",
+  "description": "",
+  "version": "1.0.0",
+  "projectId": 1031
+}
